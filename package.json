@@ -1,0 +1,26 @@
+{
+  "name": "curso_typescript",
+  "version": "1.0.0",
+  "description": "Curso de typescript realizado na plataforma DIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-Zamai/Curso_Typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-Zamai/Curso_Typescript/issues"
+  },
+  "homepage": "https://github.com/Gustavo-Zamai/Curso_Typescript#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.9.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}

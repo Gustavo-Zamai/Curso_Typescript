@@ -1,0 +1,1 @@
+//Use for save code, and avoid repetitions

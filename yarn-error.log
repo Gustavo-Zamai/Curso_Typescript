@@ -1,0 +1,51 @@
+Arguments: 
+  D:\Program Files (x86)\nodejs\node.exe C:\Users\Gustavo\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add typescript -D
+
+PATH: 
+  C:\Users\Gustavo\Documents\GitHub\Curso_Typescript\node_modules\.bin;C:\Users\Gustavo\Documents\GitHub\node_modules\.bin;C:\Users\Gustavo\Documents\node_modules\.bin;C:\Users\Gustavo\node_modules\.bin;C:\Users\node_modules\.bin;C:\node_modules\.bin;D:\Program Files (x86)\nodejs\node_modules\npm\node_modules\@npmcli\run-script\lib\node-gyp-bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;D:\Program Files (x86)\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Users\Gustavo\AppData\Local\Microsoft\WindowsApps;C:\Users\Gustavo\AppData\Local\GitHubDesktop\bin;D:\Program Files\JetBrains\PyCharm Community Edition 2021.2.3\bin;;D:\Microsoft VS Code\bin;C:\Users\Gustavo\AppData\Roaming\npm;C:\Users\Gustavo\.dotnet\tools
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 ia32
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Gustavo\Documents\GitHub\Curso_Typescript\node_modules\deasync\bin\win32-ia32-node-16\deasync.node'
+
+npm manifest: 
+  {
+    "name": "curso_typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "parcel index0.html",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Gustavo-Zamai/Curso_Typescript.git"
+    },
+    "keywords": [
+      "Typescript"
+    ],
+    "author": "Gustavo Zamai",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Gustavo-Zamai/Curso_Typescript/issues"
+    },
+    "homepage": "https://github.com/Gustavo-Zamai/Curso_Typescript#readme",
+    "dependencies": {
+      "parcel-bundler": "^1.12.5"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
